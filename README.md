@@ -9,8 +9,8 @@
 ### Связь со мной:
 
 [<img align="left" alt="elijah___leonov | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/elijah.leonov)
-[<img align="left" alt="elijah___leonov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/elijah_leonov)
 [<img align="left" alt="elijah___leonov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/elijah___leonov/)
+[<img align="left" alt="elijah___leonov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/elijah_leonov)
 
 <br />
 <br />
